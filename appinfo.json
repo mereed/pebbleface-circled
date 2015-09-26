@@ -1,0 +1,295 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chops",
+    "longName": "circLED",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/digital-7.ttf",
+                "name": "FONT_CUSTOM_14",
+                "type": "font"
+            },
+            {
+                "file": "images/BATT-chg.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-10.png",
+                "name": "IMAGE_BATT_10",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-20.png",
+                "name": "IMAGE_BATT_20",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-30.png",
+                "name": "IMAGE_BATT_30",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-40.png",
+                "name": "IMAGE_BATT_40",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-50.png",
+                "name": "IMAGE_BATT_50",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-60.png",
+                "name": "IMAGE_BATT_60",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-70.png",
+                "name": "IMAGE_BATT_70",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-80.png",
+                "name": "IMAGE_BATT_80",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-90.png",
+                "name": "IMAGE_BATT_90",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-100.png",
+                "name": "IMAGE_BATT_100",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-BT.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/DIG-IT-8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/led-4sm.png",
+                "name": "IMAGE_DATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-OCT.png",
+                "name": "IMAGE_MONTH_OCT",
+                "type": "png"
+            },
+            {
+                "file": "images/led-6sm.png",
+                "name": "IMAGE_DATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/led-0sm.png",
+                "name": "IMAGE_DATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-NOV.png",
+                "name": "IMAGE_MONTH_NOV",
+                "type": "png"
+            },
+            {
+                "file": "images/led-7sm.png",
+                "name": "IMAGE_DATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/moody-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-MAR.png",
+                "name": "IMAGE_MONTH_MAR",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-JUN.png",
+                "name": "IMAGE_MONTH_JUN",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-mon.png",
+                "name": "IMAGE_DAY_NAME_MON",
+                "type": "png"
+            },
+            {
+                "file": "images/led-3sm.png",
+                "name": "IMAGE_DATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-DEC.png",
+                "name": "IMAGE_MONTH_DEC",
+                "type": "png"
+            },
+            {
+                "file": "images/led-2sm.png",
+                "name": "IMAGE_DATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-JAN.png",
+                "name": "IMAGE_MONTH_JAN",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-JUL.png",
+                "name": "IMAGE_MONTH_JUL",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-MAY.png",
+                "name": "IMAGE_MONTH_MAY",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-AUG.png",
+                "name": "IMAGE_MONTH_AUG",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-SEP.png",
+                "name": "IMAGE_MONTH_SEP",
+                "type": "png"
+            },
+            {
+                "file": "images/led-5sm.png",
+                "name": "IMAGE_DATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-tue.png",
+                "name": "IMAGE_DAY_NAME_TUE",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-FEB.png",
+                "name": "IMAGE_MONTH_FEB",
+                "type": "png"
+            },
+            {
+                "file": "images/LED-24.png",
+                "name": "IMAGE_24_HOUR_MODE",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-sun.png",
+                "name": "IMAGE_DAY_NAME_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/led-1SM.png",
+                "name": "IMAGE_DATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-fri.png",
+                "name": "IMAGE_DAY_NAME_FRI",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-sat.png",
+                "name": "IMAGE_DAY_NAME_SAT",
+                "type": "png"
+            },
+            {
+                "file": "images/led-9sm.png",
+                "name": "IMAGE_DATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-wed.png",
+                "name": "IMAGE_DAY_NAME_WED",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT-APR.png",
+                "name": "IMAGE_MONTH_APR",
+                "type": "png"
+            },
+            {
+                "file": "images/led-8sm.png",
+                "name": "IMAGE_DATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/batt-thu.png",
+                "name": "IMAGE_DAY_NAME_THU",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "circLED",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "b58bce89-a71d-42ab-b3b9-b93b01b6394e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
